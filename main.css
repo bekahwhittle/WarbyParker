@@ -1,0 +1,9 @@
+.nav-lnk {
+  text-decoration: none;
+  color: #414b56;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  list-style: none;
+  display: inline;
+  font-size: 12px;
+}
