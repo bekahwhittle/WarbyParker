@@ -81,3 +81,65 @@ body {
   font-weight: 300;
   font-style: bold;
 }
+.new-cta-ctn {
+  display: block;
+  height: 720px;
+  width: 1440px;
+  margin-bottom: 84px;
+}
+.new-cta-img {
+  width: 100%;
+  height: 100%;
+}
+.visit-cta-ctn {
+  padding-left: 60px;
+  padding-right: 60px;
+  margin: auto;
+  display: block;
+  height: 660px;
+  width: 1400px;
+}
+.store-img-ctn {
+  background-color: #fafafa;
+  height: 575.98px;
+  width: 864px;
+}
+.store-img {
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+.tryon-cta-ctn {
+  display: block;
+  height: 720px;
+  width: 1440px;
+}
+.tryon-img {
+  width: 100%;
+  height: 100%;
+}
+.spacer {
+  height: 87px;
+  width: 190px;
+}
+.veryAiry-cta-ctn {
+  display: block;
+  height: 723.38px;
+  width: 1440px;
+}
+.veryAiry-img {
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+.charity-cta-ctn {
+  padding-left: 60px;
+  padding-right: 60px;
+  width: 1320px;
+  height: 376px;
+}
+.charity-img {
+  width: 605px;
+  margin-left: 390px;
+
+}
