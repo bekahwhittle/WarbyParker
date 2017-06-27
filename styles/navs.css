@@ -1,0 +1,32 @@
+.nav-ul {
+  padding-left: 20px;
+  padding-bottom: 8px;
+}
+.nav-logo {
+  color: #414b56;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  list-style: none;
+  display: inline;
+  font-size: 20px;
+  font-family: "Raleway";
+  font-weight: 500;
+  font-style: bold;
+}
+.nav-lnk {
+  padding-top: 10px;
+  padding-left: 20px;
+  color: #414b56;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  list-style: none;
+  display: inline;
+  font-size: 10px;
+  font-family: "Raleway";
+  font-weight: 300;
+  font-style: bold;
+}
+.nav-lnk:hover {
+  font-weight: 600;
+  cursor: pointer;
+}
