@@ -1,9 +1,69 @@
-.nav-lnk {
-  text-decoration: none;
+body {
+  margin: 0;
+}
+.nav-ul {
+  padding-left: 20px;
+  padding-bottom: 8px;
+}
+.nav-logo {
   color: #414b56;
   letter-spacing: 2.5px;
   text-transform: uppercase;
   list-style: none;
   display: inline;
-  font-size: 12px;
+  font-size: 20px;
+  font-family: "Raleway";
+  font-weight: 500;
+  font-style: bold;
+}
+.nav-lnk {
+  padding-top: 10px;
+  padding-left: 20px;
+  color: #414b56;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  list-style: none;
+  display: inline;
+  font-size: 10px;
+  font-family: "Raleway";
+  font-weight: 300;
+  font-style: bold;
+}
+.nav-lnk:hover {
+  font-weight: 600;
+  cursor: pointer;
+}
+.header-img-ctn {
+  display: block;
+  height: 720px;
+  width: 1440px;
+}
+.header-img {
+  width: 100%;
+  height: 100%;
+}
+.ftr-glasses-ctn {
+  margin-left: 336px;
+  margin-top: 63px;
+  margin-bottom: 63px;
+  width: 768px;
+  height: 180px;
+}
+/*.glasses-ctn {
+  display: inline-block;
+  height: 180px;
+  width: 384px;
+}
+.cta-glasses {
+  width: 100%;
+  height: 100%;
+}*/
+.sunglasses-ctn {
+  display: block;
+  height: 180px;
+  width: 384px;
+}
+.cta-sunglasses {
+  width: 100%;
+  height: 100%;
 }
